@@ -4,8 +4,7 @@ import { Providers } from "./providers"
 import AppShell from "@/components/AppShell"
 
 export const metadata = {
-  title: "My Mantine app",
-  description: "I have followed setup instructions carefully",
+  title: "BillSplit",
 }
 
 export default function RootLayout({
